@@ -5,4 +5,4 @@ These C codes are the output of the model with the best predictive ability as id
 
 These codes must be compiled into a library and then linked into an application so that it can be used to score new data. The compilation instructions depend on the target platform and operation system. The .h files needed for compiling and linking are included here.
 
-The codes are the bais for the analyses in: Evaristo, J. & McDonnell, J. J. Global analysis of streamflow response to forest management. Nature XXX, XX–XX (2019).
+The codes are the basis for the analyses in: Evaristo, J. & McDonnell, J. J. Global analysis of streamflow response to forest management. Nature XXX, XX–XX (2019).
